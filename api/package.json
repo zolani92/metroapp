@@ -1,0 +1,20 @@
+{
+  "name": "metroapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "cors": "^2.8.4",
+    "express": "^4.15.4",
+    "fs": "0.0.1-security",
+    "mongoose": "^4.11.12",
+    "node-dijkstra": "^2.5.0"
+  },
+  "scripts": {
+    "start": "cd server && node server",
+    "stationsPopulate": "cd server && node stationsPopulate"
+  }
+}

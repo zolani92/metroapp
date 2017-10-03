@@ -1,0 +1,27 @@
+Boulogne-Pont de Saint-Cloud
+Boulogne-Jean Jaurès
+### Unidirection branch - linked to Boulogne-Jean Jaurès
+Michel-Ange-Molitor
+Chardon-Lagache
+Mirabeau
+### End unidirection branch - linked to Javel-André Citroën
+### Unidirection branch - linked to Javel-André Citroën
+Eglise d'Auteuil
+Michel-Ange-Auteuil
+Porte d'Auteuil
+### End unidirection branch - linked to Boulogne-Jean Jaurès
+Javel-André Citroën
+Charles Michels
+Avenue Émile Zola
+La Motte-Picquet-Grenelle
+Ségur
+Duroc
+Vaneau
+Sèvres-Babylone
+Mabillon
+Odéon
+Cluny-La Sorbonne
+Maubert-Mutualité
+Cardinal Lemoine
+Jussieu
+Gare d'Austerlitz
